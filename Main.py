@@ -35,8 +35,9 @@ def topThreeAnime():
 #add third anime
     print("Death note")
 topThreeAnime()
+print (69 // 420)
+def myNameIs(taco):
+    print(taco + "is my name")
 
-
-    
-
-
+myNameIs("jack")
+myNameis("joe")
