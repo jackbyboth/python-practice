@@ -56,10 +56,10 @@ addTwoNumbers(42, 17)
 
 
 
-def madLib(instrument, hours, day, letter, major, number, number2, adjective,  adjective2,fraction, adjective3, instument2,noun, song, adjectived, artist):
+def madLib(instrument, hours, day, letter, major, number, number2, adjective, adjective2, fraction, adjective3, adjective4 ,instument2,noun, family, song, adjectived, artist,):
     print("while ive stayed at home ive practiced the" + instrument +
     "for" + hours + "hours every" + day + "my favorite key signature to practice in is"
     + letter + major + "it has" + number + "flats and" + number2 + "sharps. I like this key signature because it is" +  
     adjective + "and"+adjective2+ "ive also gotten awesome at counting time signatures, The time signature i love is"+fraction+ "because it is" +adjective3+"to count. one instrument i want to learn to play while im at home is"+instument2+"because it is,"+adjective4
     +"and sound like a."+noun+"my"+family+"likes it when i play" +song+"and always gives me a round of applause after my preformances when i return to school, my teacher will be"+adjectived+"of how great im playing my instrument! my teacher might even think im"+artist)
-madLib(trumpet, 4, day, z, major, 69, 420, cool, adjective2, fraction, adjective3, instument2, noun, song, adjectived, artist)
+madLib("trumpet", " 4", " day", " z", " major", " 69", " 420", " cool", " funny", " 2/4", " crazy", " guitar"," hard", " taco", " my dad" " industry baby", " excited", " lil nas x", " lil nas x") 
